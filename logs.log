@@ -1,0 +1,97 @@
+2022-03-10 08:47:27,928: INFO --> connection() --> Database Connected....
+2022-03-10 08:47:27,928: INFO --> connection() --> Isssues found=0
+2022-03-10 08:47:33,266: INFO --> connection() --> Database Connected....
+2022-03-10 08:47:33,267: INFO --> connection() --> Isssues found=0
+2022-03-10 08:47:38,327: INFO --> connection() --> Database Connected....
+2022-03-10 08:47:38,327: INFO --> connection() --> Isssues found=0
+2022-03-10 08:47:42,706: INFO --> connection() --> Database Connected....
+2022-03-10 08:47:42,706: INFO --> connection() --> Isssues found=0
+2022-03-10 08:47:42,745: INFO --> <module>() --> postgress engine created
+2022-03-10 08:47:42,979: INFO --> adddb() --> Issues found=0
+2022-03-10 08:47:46,227: INFO --> connection() --> Database Connected....
+2022-03-10 08:47:46,227: INFO --> connection() --> Isssues found=0
+2022-03-10 08:47:46,324: INFO --> adddb() --> Issues found=0
+2022-03-10 09:46:14,332: INFO --> connection() --> Database Connected....
+2022-03-10 09:46:14,332: INFO --> connection() --> Isssues found=0
+2022-03-10 09:46:14,478: INFO --> adddb1() --> Issues found=0
+2022-03-10 10:05:00,491: INFO --> connection() --> Database Connected....
+2022-03-10 10:05:00,491: INFO --> connection() --> Isssues found=0
+2022-03-10 10:05:12,551: INFO --> connection() --> Database Connected....
+2022-03-10 10:05:12,551: INFO --> connection() --> Isssues found=0
+2022-03-10 10:05:33,324: INFO --> connection() --> Database Connected....
+2022-03-10 10:05:33,324: INFO --> connection() --> Isssues found=0
+2022-03-10 10:36:43,255: INFO --> connection() --> Database Connected....
+2022-03-10 10:36:43,255: INFO --> connection() --> Isssues found=0
+2022-03-10 10:36:43,255: ERROR --> create_engine() --> Error in engine creation
+2022-03-10 10:36:43,255: INFO --> create_engine() --> Engine successfully created
+2022-03-10 10:37:43,309: INFO --> connection() --> Database Connected....
+2022-03-10 10:37:43,309: INFO --> connection() --> Isssues found=0
+2022-03-10 10:37:43,309: ERROR --> create_engine() --> Error in engine creation
+2022-03-10 10:37:43,309: INFO --> create_engine() --> Engine successfully created
+2022-03-10 10:38:29,346: INFO --> connection() --> Database Connected....
+2022-03-10 10:38:29,346: INFO --> connection() --> Isssues found=0
+2022-03-10 10:38:29,346: ERROR --> create_engine() --> Error in engine creation
+2022-03-10 10:38:29,346: INFO --> create_engine() --> Engine successfully created
+2022-03-10 10:38:32,533: INFO --> connection() --> Database Connected....
+2022-03-10 10:38:32,533: INFO --> connection() --> Isssues found=0
+2022-03-10 10:38:32,533: ERROR --> create_engine() --> Error in engine creation
+2022-03-10 10:38:32,533: INFO --> create_engine() --> Engine successfully created
+2022-03-10 10:38:47,249: INFO --> connection() --> Database Connected....
+2022-03-10 10:38:47,249: INFO --> connection() --> Isssues found=0
+2022-03-10 10:38:47,249: ERROR --> create_engine() --> Error in engine creation
+2022-03-10 10:38:47,249: INFO --> create_engine() --> Engine successfully created
+2022-03-10 10:39:42,486: INFO --> connection() --> Database Connected....
+2022-03-10 10:39:42,486: INFO --> connection() --> Isssues found=0
+2022-03-10 10:39:42,486: ERROR --> create_engine() --> Error in engine creation
+2022-03-10 10:39:42,486: INFO --> create_engine() --> Engine successfully created
+2022-03-10 10:41:49,810: INFO --> connection() --> Database Connected....
+2022-03-10 10:41:49,811: INFO --> connection() --> Isssues found=0
+2022-03-10 10:41:49,811: ERROR --> create_engine() --> Error in engine creation
+2022-03-10 10:41:49,811: INFO --> create_engine() --> Engine successfully created
+2022-03-10 10:42:38,417: INFO --> connection() --> Database Connected....
+2022-03-10 10:42:38,417: INFO --> connection() --> Isssues found=0
+2022-03-10 10:42:38,417: ERROR --> create_engine() --> Error in engine creation
+2022-03-10 10:42:38,417: INFO --> create_engine() --> Engine successfully created
+2022-03-10 10:42:54,604: INFO --> connection() --> Database Connected....
+2022-03-10 10:42:54,605: INFO --> connection() --> Isssues found=0
+2022-03-10 10:43:02,590: INFO --> connection() --> Database Connected....
+2022-03-10 10:43:02,590: INFO --> connection() --> Isssues found=0
+2022-03-10 10:43:02,590: ERROR --> create_engine() --> Error in engine creation
+2022-03-10 10:43:02,590: INFO --> create_engine() --> Engine successfully created
+2022-03-10 10:43:07,360: INFO --> connection() --> Database Connected....
+2022-03-10 10:43:07,360: INFO --> connection() --> Isssues found=0
+2022-03-10 10:43:07,360: ERROR --> create_engine() --> Error in engine creation
+2022-03-10 10:43:07,360: INFO --> create_engine() --> Engine successfully created
+2022-03-10 10:43:25,040: INFO --> connection() --> Database Connected....
+2022-03-10 10:43:25,040: INFO --> connection() --> Isssues found=0
+2022-03-10 10:43:25,208: INFO --> adddb() --> Issues found=0
+2022-03-10 10:46:49,916: INFO --> connection() --> Database Connected....
+2022-03-10 10:46:49,916: INFO --> connection() --> Isssues found=0
+2022-03-10 10:46:49,916: ERROR --> create_engine() --> error in creating engine
+2022-03-10 10:46:49,916: INFO --> create_engine() --> engine created succuesfully
+2022-03-10 10:47:04,829: INFO --> connection() --> Database Connected....
+2022-03-10 10:47:04,829: INFO --> connection() --> Isssues found=0
+2022-03-10 10:47:04,829: ERROR --> create_engine() --> error in creating engine
+2022-03-10 10:47:04,829: INFO --> create_engine() --> engine created succuesfully
+2022-03-10 10:47:28,544: INFO --> connection() --> Database Connected....
+2022-03-10 10:47:28,544: INFO --> connection() --> Isssues found=0
+2022-03-10 10:47:28,544: ERROR --> create_engine() --> error in creating engine
+2022-03-10 10:47:28,544: INFO --> create_engine() --> engine created succuesfully
+2022-03-10 10:47:28,660: ERROR --> adddb() --> There is an error... in uploading table to sql
+2022-03-10 10:47:28,660: INFO --> adddb() --> Issues found=0
+2022-03-10 10:48:04,822: INFO --> connection() --> Database Connected....
+2022-03-10 10:48:04,822: INFO --> connection() --> Isssues found=0
+2022-03-10 10:48:04,822: ERROR --> create_engine() --> error in creating engine
+2022-03-10 10:48:04,822: INFO --> create_engine() --> engine created succuesfully
+2022-03-10 10:48:04,925: ERROR --> adddb() --> There is an error... in uploading table to sql
+2022-03-10 10:48:04,925: INFO --> adddb() --> Issues found=0
+2022-03-10 10:49:29,028: INFO --> connection() --> Database Connected....
+2022-03-10 10:49:29,029: INFO --> connection() --> Isssues found=0
+2022-03-10 10:49:29,044: INFO --> create_enginenow() --> engine created succuesfully
+2022-03-10 10:49:40,264: INFO --> connection() --> Database Connected....
+2022-03-10 10:49:40,264: INFO --> connection() --> Isssues found=0
+2022-03-10 10:49:40,275: INFO --> create_enginenow() --> engine created succuesfully
+2022-03-10 10:49:40,387: INFO --> adddb() --> Issues found=0
+2022-03-10 10:50:34,683: INFO --> connection() --> Database Connected....
+2022-03-10 10:50:34,683: INFO --> connection() --> Isssues found=0
+2022-03-10 10:50:34,693: INFO --> create_enginenow() --> engine created succuesfully
